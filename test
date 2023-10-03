@@ -1,0 +1,3 @@
+cd \<relative_path_to_folder\>
+git add --all
+git add "relative_path_filename"
